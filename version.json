@@ -1,7 +1,7 @@
 {
   "latest_version": "1.4.0",
   "build_number": 4,
-  "apk_url": "https://github.com/jahnuborah/bynoq_release/raw/main/app_v4.apk",
+  "apk_url": "https://raw.githubusercontent.com/jahnuborah/bynoq_release/main/app_v4.apk",
   "sha256": "861170a6608996548014626bebf3f559036dd3430000e2254e73f1ad33885d3f",
   "force_update": true,
   "min_supported_build": 1
