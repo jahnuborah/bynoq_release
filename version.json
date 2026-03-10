@@ -1,6 +1,6 @@
 {
-  "latest_version": "1.5.0",
-  "build_number": 5,
+  "latest_version": "1.1.0",
+  "build_number": 1,
   "apk_url": "https://raw.githubusercontent.com/jahnuborah/bynoq_release/main/app_v5.apk",
   "sha256": "8464beab48d00da06886a17cc9c1964d74f6582d9c11ac90ee858ae4c2cd6bd6",
   "force_update": true,
