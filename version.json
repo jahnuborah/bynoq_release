@@ -2,7 +2,7 @@
   "latest_version": "1.6.1",
   "build_number": 6,
   "min_supported_build": 4,
-  "force_update": true,
+  "force_update": false,
 
   "apk_url": "https://raw.githubusercontent.com/jahnuborah/bynoq_release/main/app_v6.apk",
   "windows_exe_url": "https://raw.githubusercontent.com/jahnuborah/bynoq_release/main/Bynoq.exe",
