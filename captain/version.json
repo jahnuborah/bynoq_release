@@ -1,0 +1,10 @@
+{
+  "latest_version": "1.0.0",
+  "build_number": 1,
+  "min_supported_build": 1,
+  "force_update": true,
+  "apk_url": "https://raw.githubusercontent.com/jahnuborah/bynoq_release/main/captain/BynoqCaptain.apk",
+  "windows_exe_url": "https://raw.githubusercontent.com/jahnuborah/bynoq_release/main/captain/CaptainSetup-1.0.0.exe",
+  "apk_sha256": "APK_HASH_HERE",
+  "windows_sha256": "EXE_HASH_HERE"
+}
