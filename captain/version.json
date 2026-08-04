@@ -1,11 +1,11 @@
 {
-  "latest_version": "1.0.0",
-  "build_number": 1,
+  "latest_version": "1.2.1",
+  "build_number": 2,
   "min_supported_build": 1,
   "force_update": true,
   "apk_url": "https://github.com/jahnuborah/bynoq_release/releases/latest/download/BynoqCaptain.apk",
   "windows_exe_url": "https://raw.githubusercontent.com/jahnuborah/bynoq_release/main/captain/CaptainSetup-1.0.0.exe",
-  "apk_sha256": "bb12ff0169aae90481d13986cb79dcb7e7f14036c414abdd6d5b39cf7c683712",
-  "sha256": "bb12ff0169aae90481d13986cb79dcb7e7f14036c414abdd6d5b39cf7c683712",
-  "windows_sha256": "bb12ff0169aae90481d13986cb79dcb7e7f14036c414abdd6d5b39cf7c683712"
+  "apk_sha256": "eaf0e2b6f01404552a7dc9aae3623499c0c614c7df8de4d51aad9b1a245be8e4",
+  "sha256": "eaf0e2b6f01404552a7dc9aae3623499c0c614c7df8de4d51aad9b1a245be8e4",
+  "windows_sha256": "eaf0e2b6f01404552a7dc9aae3623499c0c614c7df8de4d51aad9b1a245be8e4"
 }
