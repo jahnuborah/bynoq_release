@@ -1,14 +1,14 @@
 {
-  "latest_version": "7.38.1",
-  "build_number": 38,
-  "min_supported_build": 30,
+  "latest_version": "7.39.1",
+  "build_number": 39,
+  "min_supported_build": 35,
   "force_update": true,
 
   "apk_url": "https://github.com/jahnuborah/bynoq_release/releases/latest/download/Bynoq.apk",
   "windows_exe_url": "https://github.com/jahnuborah/bynoq_release/releases/latest/download/Bynoq.exe",
 
-  "apk_sha256": "41f2a308974b654fb149ef44f021f5a571c7a741544953742256216c4a990437",
-  "sha256": "41f2a308974b654fb149ef44f021f5a571c7a741544953742256216c4a990437",
-  "windows_sha256": "b23887035cfa826c9a0a34231b9fab4149e3eba6a1b51a4fd16b08c08ec06c20"
+  "apk_sha256": "76a1dcf89ad917169328c7503894ce702f5d83acfa0a48377a2321dcaa7f93b9",
+  "sha256": "76a1dcf89ad917169328c7503894ce702f5d83acfa0a48377a2321dcaa7f93b9",
+  "windows_sha256": "2e8084cf5ba0a3efa68437c631155ee99fbb1463e917132648ee815e73bd98f5"
 }
 
